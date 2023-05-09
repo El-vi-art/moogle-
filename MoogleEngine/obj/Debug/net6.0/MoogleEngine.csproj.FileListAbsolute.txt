@@ -1,0 +1,48 @@
+G:\Barbara\moogle-2021-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+G:\Barbara\moogle-2021-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+G:\Barbara\moogle-2021-main\MoogleEngine\bin\Debug\net6.0\ref\MoogleEngine.dll
+G:\Barbara\moogle-2021-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+G:\Barbara\moogle-2021-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.AssemblyReference.cache
+G:\Barbara\moogle-2021-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+G:\Barbara\moogle-2021-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+G:\Barbara\moogle-2021-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+G:\Barbara\moogle-2021-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+G:\Barbara\moogle-2021-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+G:\Barbara\moogle-2021-main\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
+G:\Barbara\moogle-2021-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
+D:\Proyecto de Programacion\Moogle-Main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+D:\Proyecto de Programacion\Moogle-Main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+D:\Proyecto de Programacion\Moogle-Main\MoogleEngine\bin\Debug\net6.0\ref\MoogleEngine.dll
+D:\Proyecto de Programacion\Moogle-Main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+D:\Proyecto de Programacion\Moogle-Main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.AssemblyReference.cache
+D:\Proyecto de Programacion\Moogle-Main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyecto de Programacion\Moogle-Main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+D:\Proyecto de Programacion\Moogle-Main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+D:\Proyecto de Programacion\Moogle-Main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+D:\Proyecto de Programacion\Moogle-Main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+D:\Proyecto de Programacion\Moogle-Main\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
+D:\Proyecto de Programacion\Moogle-Main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
+D:\Moogle-Main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+D:\Moogle-Main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+D:\Moogle-Main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+D:\Moogle-Main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.AssemblyReference.cache
+D:\Moogle-Main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moogle-Main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+D:\Moogle-Main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+D:\Moogle-Main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+D:\Moogle-Main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+D:\Moogle-Main\MoogleEngine\obj\Debug\net6.0\refint\MoogleEngine.dll
+D:\Moogle-Main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
+D:\Moogle-Main\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
+D:\Proyectos_no_borrar\mi proyecto 1er smestre\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+D:\Proyectos_no_borrar\mi proyecto 1er smestre\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+D:\Proyectos_no_borrar\mi proyecto 1er smestre\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+D:\Proyectos_no_borrar\mi proyecto 1er smestre\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.AssemblyReference.cache
+D:\Proyectos_no_borrar\mi proyecto 1er smestre\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos_no_borrar\mi proyecto 1er smestre\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+D:\Proyectos_no_borrar\mi proyecto 1er smestre\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+D:\Proyectos_no_borrar\mi proyecto 1er smestre\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+D:\Proyectos_no_borrar\mi proyecto 1er smestre\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+D:\Proyectos_no_borrar\mi proyecto 1er smestre\MoogleEngine\obj\Debug\net6.0\refint\MoogleEngine.dll
+D:\Proyectos_no_borrar\mi proyecto 1er smestre\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
+D:\Proyectos_no_borrar\mi proyecto 1er smestre\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
