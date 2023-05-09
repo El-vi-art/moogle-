@@ -1,0 +1,5 @@
+D:\Proyectos_no_borrar\mi proyecto 1er smestre\obj\Debug\net6.0\Moogle-Main.csproj.AssemblyReference.cache
+D:\Proyectos_no_borrar\mi proyecto 1er smestre\obj\Debug\net6.0\Moogle-Main.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos_no_borrar\mi proyecto 1er smestre\obj\Debug\net6.0\Moogle-Main.AssemblyInfoInputs.cache
+D:\Proyectos_no_borrar\mi proyecto 1er smestre\obj\Debug\net6.0\Moogle-Main.AssemblyInfo.cs
+D:\Proyectos_no_borrar\mi proyecto 1er smestre\obj\Debug\net6.0\Moogle-Main.csproj.CoreCompileInputs.cache
