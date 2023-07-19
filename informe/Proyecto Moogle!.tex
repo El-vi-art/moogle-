@@ -1,0 +1,23 @@
+\documentclass[a4paper, 12pt]{article}
+\author{Victor Manuel Castillo Tamayo C111}
+\title{Proyecto Moogle!}
+\date{Julio, 2023}
+\begin{document}
+	\maketitle
+\begin{abstract}
+		\begin{center}
+			\large\texttt{Que es Moogle!?}
+		\end{center}
+		Esta aplicación web Moogle!, desarrollada con .NET core 6.0, en el lenguaje CSharp, tiene la funcionalidad de buscar una palabra o frase (query) insertada por el usuario, en cierto grupo de documentos .txt, y mostrar el resultado en su interfaz. Si el resultado, no es encontrado, no se mostrara nada en la interfaz. Se le sugeriran palabras en relacion a su busqueda, que posiblemente tendran mejores resultados. La búsqueda devolverá los documentos donde se encuentre el “query” insertado por el usuario y una porción de este, mostrando donde fue encontrado. El usuario puede editar o sustituir los documentos contenidos en la carpeta “Content”, siempre y cuando se respete la condición de estar en formato .txt .
+	\end{abstract}
+\section{Como correr el programa?}
+		Al abrir la terminal en la carpeta del proyecto
+		\begin{center}
+		\begin{tabular}{l|r}
+		Sistema Operativo & correr en la termnal\\
+		\hline
+		Linux & make dev\\
+		Windows & dotnet watch run --project MoogleServer\\
+		\end{tabular}
+		\end{center}
+\end{document}
